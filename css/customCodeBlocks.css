@@ -6,40 +6,31 @@
 code {
     font-family: var(--code-font);
 }
+code.css:before {
+    padding: 0 5px;
 
-.css .hljs-selector-id{color:#81a2be!important}
+}
+code.css .hljs-selector-id{color:#81a2be!important}
 
-.css .hljs-selector-class{color:#4271ae!important}
+code.css .hljs-selector-class{color:#4271ae!important}
 
-.css .hljs-meta{color:#c82829!important}
+code.css .hljs-meta{color:#c82829!important}
 
-.css .hljs-attribute{color:#eab700!important}
+code.css .hljs-attribute{color:#eab700!important}
 
-.css .hljs-selector-tag{color:#8959a8!important}
+code.css .hljs-selector-tag{color:#8959a8!important}
 
 .markup-eYLPri pre>.hljs:before {
-    height: 10px;
-    color: rgba(255,255,255,.3);
-    line-height: 10px;
-    opacity: 1;
+	background-color: black;
+	border-radius: 8px;
 }
-.css:before {
+code.css:before {
     content: "CSS";
-	text-align: center;
-	top:5px!important;
+    color: #ffffff50;
 }
 
+code.css{border-radius: 8px;}
 
-.hljs:before {
-	position: absolute;
-	right: 0;
-	top: 0;
-	height:60px;
-	width: 30px!important; 
-    border-left:3px solid;
-}
-
-.css{border-radius: 16px;}
 
 .markup-eYLPri pre>.hljs {
     position: relative;
