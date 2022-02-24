@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Source Code Pro:wght@550&display=swap");
+:root{
+	--code-font: 'Source Code Pro';
+}
+.codeBlockText-311wOq,
+code {
+    font-family: var(--code-font);
+}
+
+.css .hljs-selector-id{color:#81a2be!important}
+
+.css .hljs-selector-class{color:#4271ae!important}
+
+.css .hljs-meta{color:#c82829!important}
+
+.css .hljs-attribute{color:#eab700!important}
+
+.css .hljs-selector-tag{color:#8959a8!important}
+
+.markup-eYLPri pre>.hljs:before {
+    height: 10px;
+    color: rgba(255,255,255,.3);
+    line-height: 10px;
+    opacity: 1;
+}
+.css:before {
+    content: "CSS";
+	text-align: center;
+	top:5px!important;
+}
+
+
+.hljs:before {
+	position: absolute;
+	right: 0;
+	top: 0;
+	height:60px;
+	width: 30px!important; 
+    border-left:3px solid;
+}
+
+.css{border-radius: 16px;}
+
+.markup-eYLPri pre>.hljs {
+    position: relative;
+    padding: 12px;
+    background: rgba(0,0,0,.42);
+    border: 1px solid rgba(255,255,255,.3);
+    color: rgba(255,255,255,.7);
+}
