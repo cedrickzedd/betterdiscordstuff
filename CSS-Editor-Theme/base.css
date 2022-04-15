@@ -1,0 +1,18 @@
+.minimap{ display:none; }
+.monaco-editor, .monaco-editor-background, .monaco-editor .inputarea.ime-input, .monaco-editor .margin{ background-color: transparent!important; }
+.floating-window-content, .floating-window-titlebar, .floating-window #bd-editor-controls{ background: transparent; }
+.monaco-editor .scroll-decoration{ min-width: 99999px; } .margin{ width: 20px!important; } .line-numbers{ width: 20px!important; }
+.monaco-editor .editor-scrollable{ width: calc(100% - 30px)!important;}
+
+
+.margin-view-overlays > div{
+    width: 20px!important;
+}
+.margin{
+    width: 24px!important;
+}
+
+.monaco-scrollable-element{
+    left: 30px!important;
+}
+
