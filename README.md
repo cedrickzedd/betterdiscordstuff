@@ -1,9 +1,6 @@
 # betterdiscordstuff
+Here is where all of my betterdiscord projects can be found
 
-```
-@import url("https://cedrickzedd.github.io/betterdiscordstuff/css/customCodeBlocks.css");
-```
+go to [my snippets folder](https://github.com/cedrickzedd/betterdiscordstuff/tree/main/css) for my css imports.
 
-```
-@import url ("https://cedrickzedd.github.io/betterdiscordstuff/css/activeNowGrid.css");
-```
+Everything else is still under construction.
