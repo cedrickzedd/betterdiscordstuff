@@ -18,3 +18,69 @@
 .floating-window-titlebar > .title::before{
     content: var(--theme);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.floating-window #bd-editor-controls{ background: #f8f8f205; border-bottom: 2px var(--border) solid;border-top: 2px var(--border) solid;}
+.slider{
+    border-radius: var(--border-radius);
+}
+#floating-editor-window{
+    border-radius: var(--border-radius);
+    border:2px var(--border) solid;
+}
+.margin{
+    border-right: 2px var(--border) solid;
+}
+/*Main App Color*/
+.floating-window.resizable{
+    background:var(--main-bg);
+}
+/*comment*/
+.mtk7{
+    color: var(--comment)!important;
+}
+/*class*/
+.mtk8{
+    color:var(--class)!important;
+}
+/*variable*/
+.mtk5{
+    color: var(--value)!important;
+}
+.mtk4{
+    color: var(--property)!important;
+}
+.close-button{
+    color: var(--close-button)!important;
+    transition: 0.5s;
+}
+.close-button:hover{
+    color: white!important;
+}
+.maximize-button{
+    color: var(--max)!important;
+    transition: 0.5s;
+}
+.maximize-button:hover{
+    color: white!important;
+}
+.floating-window-titlebar > .title::before{
+    content: var(--theme);
+}
