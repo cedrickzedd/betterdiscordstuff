@@ -8,7 +8,7 @@
     box-shadow:  0px 0px 60px #00000075,
                0px 0px 60px #00000075;
 }
-.monaco-editor, .monaco-editor-background, .monaco-editor .inputarea.ime-input, .monaco-editor .margin, .floating-window #bd-editor-controls, .floating-window-content, .floating-window-titlebar{
+#floating-editor-window .monaco-editor, #floating-editor-window .monaco-editor-background, #floating-editor-window .monaco-editor .inputarea.ime-input, #floating-editor-window .monaco-editor .margin, #floating-editor-window .floating-window #bd-editor-controls, .floating-window-content, .floating-window-titlebar{
     background-color: transparent!important;
     background: transparent!important;
 }
