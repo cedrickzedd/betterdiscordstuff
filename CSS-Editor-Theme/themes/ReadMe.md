@@ -8,5 +8,8 @@
 ## OneDark
 ![image](https://user-images.githubusercontent.com/73869003/170318820-ae4c9e20-de64-4918-ba31-494dcd8f0c52.png)
 
+## Nord (Dark Night Edition)
+![image](https://user-images.githubusercontent.com/73869003/170359335-d14a1448-688c-451f-888d-4c849a023182.png)
+
 # Note
 I am still working on more themes, if you have any suggestions, please let me know in my [discord server](https://discord.com/invite/hGNtQ8rMQb)
