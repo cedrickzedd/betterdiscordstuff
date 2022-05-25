@@ -1,5 +1,5 @@
 .minimap{ display:none; }
-.monaco-editor, .monaco-editor-background, .monaco-editor .inputarea.ime-input, .monaco-editor .margin{ background-color: transparent!important; }
+#floating-editor-window .monaco-editor, #floating-editor-window .monaco-editor-background, #floating-editor-window .monaco-editor .inputarea.ime-input, #floating-editor-window .monaco-editor .margin{ background-color: transparent!important; }
 .floating-window-content, .floating-window-titlebar, .floating-window #bd-editor-controls{ background: transparent; }
 .monaco-editor .scroll-decoration{ min-width: 99999px; } .margin{ width: 20px!important; } .line-numbers{ width: 20px!important; }
 .monaco-editor .editor-scrollable{ width: calc(100% - 30px)!important;}
@@ -15,4 +15,3 @@
 .monaco-scrollable-element{
     left: 30px!important;
 }
-
