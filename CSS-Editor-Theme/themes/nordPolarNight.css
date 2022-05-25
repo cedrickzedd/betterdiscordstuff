@@ -1,0 +1,14 @@
+@import url(https://cedrickzedd.github.io/betterdiscordstuff/CSS-Editor-Theme/base.css);
+
+:root{
+    --comment: #4C566A;
+    --class: #A3BE8C;
+    --value:#B48EAD;
+    --property:#5E81AC;
+    --close-button:#BF616A;
+    --max:#EBCB8B;
+    --border:#4C566A;
+    --main-bg:#2E3440;
+    --border-radius:8px;
+    --theme:"Nord (Polar Night Edition) - ";
+}
