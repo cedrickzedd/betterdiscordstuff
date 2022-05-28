@@ -2,9 +2,6 @@
 ## Dracula
 ![image](https://user-images.githubusercontent.com/73869003/170318760-4684e1d9-08a4-4413-abbc-4edaa6305be0.png)
 
-## Frosty
-![image](https://user-images.githubusercontent.com/73869003/170318691-03706547-7873-4285-8d07-000f51244f38.png)
-
 ## OneDark
 ![image](https://user-images.githubusercontent.com/73869003/170318820-ae4c9e20-de64-4918-ba31-494dcd8f0c52.png)
 
