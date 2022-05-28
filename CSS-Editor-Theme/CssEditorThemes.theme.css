@@ -1,0 +1,35 @@
+/** 
+* @name CssEditorThemes
+* @version 0.0.1
+* @author Cedrick
+* @description Themes for the CSS editor popout
+* @source https://cedrickzedd.github.io/betterdiscordstuff/CSS-Editor-Theme/CssEditorThemes.theme.css
+*/
+
+
+
+/* 
+
+TO ENABLE THEMES  :      CLOSE COMMENT AFTER THE ">" SYMBOL NEXT TO THE THEME NAME
+
+TO DISABLE THEMES :      REMOVE COMMENT AFTER THE ">" SYMBOL NEXT TO THE THEME NAME
+
+DEFAULT THEME     :      DRACULA
+
+ */
+
+
+/* <!-- DRACULA --!> */
+@import url(https://cedrickzedd.github.io/betterdiscordstuff/CSS-Editor-Theme/themes/dracula.css);
+
+
+/* <!-- FROSTY LIGHT --!>  
+@import url(https://cedrickzedd.github.io/betterdiscordstuff/CSS-Editor-Theme/themes/frostyLight.css);
+
+
+/* <!-- FROSTY DARK --!> 
+@import url(https://cedrickzedd.github.io/betterdiscordstuff/CSS-Editor-Theme/themes/frostyDark.css);
+
+
+/* <!-- ONEDARK --!> 
+@import url(https://cedrickzedd.github.io/betterdiscordstuff/CSS-Editor-Theme/themes/oneDark.css);
