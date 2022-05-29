@@ -1,0 +1,14 @@
+.floating-window-content::after{
+    content: "To change themes, open the theme file (you can remove this note as well in the theme file)";
+    font-size: .85em;
+    font-weight: 600;
+    color: var(--header-secondary);
+    position: absolute;
+    bottom: 2px;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    line-height: 40px;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 8px;
+}
